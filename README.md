@@ -1,5 +1,5 @@
 # travel-site
-travel-site with vanillaJS and CSS
+travel-site with html and CSS
 
 ## 구현 요구 사항
 ```
